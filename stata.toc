@@ -1,0 +1,3 @@
+v 3
+d Stata package implementing Balke-Pearl bounds for the average causal effect
+p bpbounds

@@ -1,0 +1,10 @@
+v 3
+d bpbounds
+d Author: Tom Palmer
+d Distribution-Date: 20181012
+f bpbounds.ado
+f bpbounds.sthlp
+f bpbounds_examples.ado
+f bpboundsi.ado
+f bpboundsi.sthlp
+e
