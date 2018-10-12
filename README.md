@@ -13,7 +13,7 @@ The commands calculate these quantities for several extensions (Ramsahai, 2007 &
 ## Installation
 To install, issue in Stata (in versions 13 and above):
 ```
-net install bpbounds, from(https://raw.github.com/remlapmot/bpbounds/master/) 
+net install bpbounds, from(https://raw.github.com/remlapmot/bpbounds-stata/master/) 
 ```
 
 ## References
