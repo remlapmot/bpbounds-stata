@@ -234,8 +234,8 @@ http://uai.sis.pitt.edu/papers/07/p310-ramsahai.pdf
 
 {title:Authors}
 
-{phang}Tom Palmer, MRC Centre for Causal Analyses in Translational Epidemiology, School of Social and Community Medicine, University of Bristol, UK. 
- {browse "mailto:tom.palmer@bristol.ac.uk":tom.palmer@bristol.ac.uk}.{p_end}
+{phang}Tom Palmer, Department of Mathematics and Statistics, Lancaster University, UK. 
+ {browse "mailto:tom.palmer@lancaster.ac.uk":tom.palmer@lancaster.ac.uk}.{p_end}
 
 {phang}Roland Ramsahai, Statistics Laboratory, University of Cambridge, UK.{p_end}
 
