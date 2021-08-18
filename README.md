@@ -20,4 +20,4 @@ net install bpbounds, from("https://raw.github.com/remlapmot/bpbounds-stata/mast
 
 - Balke A, Pearl J. 1997. Bounds on treatment effects from studies with imperfect compliance. Journal of the American Statistical Association 92(439): 1172-1176. [DOI: 10.1080/01621459.1997.10474074](https://doi.org/10.1080/01621459.1997.10474074)
 -  Ramsahai R. 2007. Causal Bounds and Instruments. In Proceedings of the Twenty-Third Annual Conference on Uncertainty in Artifcial Intelligence (UAI-07), 310-317. Corvallis, Oregon: AUAI Press.  http://uai.sis.pitt.edu/papers/07/p310-ramsahai.pdf
-- Ramsahai R. 2008. Causal Inference with Instruments and Other Supplementary Variables. Ph.D. thesis, Department of Statistics, University of Oxford.
+- Ramsahai R. 2008. Causal Inference with Instruments and Other Supplementary Variables. Ph.D. thesis, Department of Statistics, University of Oxford. [URL](https://ora.ox.ac.uk/objects/uuid:df2961da-0843-421f-8be4-66a92e6b0d13)
