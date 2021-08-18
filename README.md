@@ -6,7 +6,7 @@ The commands also calculate the bounds on the intervention probabilities; P(*Y*|
 
 The commands calculate these quantities for several extensions (Ramsahai, 2007 & 2008):
 
-- bivariate/marginal data (bpboundsi only),
+- bivariate/marginal data (`bpboundsi` only),
 - models with a three category instrument, 
 - assuming a monotonic effect of Z on X.
 
