@@ -15,7 +15,7 @@ authors:
   orcid: "https://orcid.org/0000-0001-9094-2605"
 title: "bpbounds: Stata package implementing the Balke-Pearl nonparametric bounds for the causal effect in a binary instrumental-variable model"
 type: software
-date-released: 2011-09-01
+date-released: 2011-10-01
 repository-code: "https://github.com/remlapmot/bpbounds-stata"
 license: GPL-3.0
 preferred-citation:
