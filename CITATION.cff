@@ -37,7 +37,8 @@ preferred-citation:
   journal: The Stata Journal
   volume: 11
   issue: 3
-  pages: 345-367
+  start: 345
+  end: 367
   year: 2011
   url: https://www.stata-journal.com/article.html?article=st0232
   doi: 10.1177/1536867X1101100302
